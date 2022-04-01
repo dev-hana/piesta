@@ -1,4 +1,4 @@
-package errorModel
+package piesta
 
 import "errors"
 

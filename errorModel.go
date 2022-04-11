@@ -1,4 +1,4 @@
-package piesta
+package main
 
 import "errors"
 
